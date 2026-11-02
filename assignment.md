@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-6.2.md
+Assignment 6.2 — Backgrounds, Borders & Display[cite: 27]
+What to build: 3 different card designs on a webpage[cite: 27].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Create 3 cards, such as Basic, Standard, and Premium[cite: 27].
+2. Add a title, description, and button to each card[cite: 27].
+3. Keep background colors and borders distinct[cite: 27].
+4. Create rounded corners using `border-radius`[cite: 27].
+5. Demonstrate `display: block`, `inline`, and `inline-block` with practical examples[cite: 27].
+6. Set width, height, and `max-width`[cite: 27].
+Submission: 3 differently styled cards and the CSS file[cite: 27].
